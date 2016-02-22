@@ -1,7 +1,8 @@
 name: human packaging
 favicon: null
-layout_spectrum: 0.29004314076155424
-typography_spectrum: 0.9786716885864735
+layout_spectrum: 1
+typography_spectrum: 0.43104
+title: the art of packaging objects and people
 cta:
   domain: null
   bucket: null
@@ -16,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.28511151135899127
+    - '#000000'
+    - '#d8eaf7'
+    - '#2d3457'
+    - '#b3c2df'
+    - '#7381a3'
+  brandStrength: 0.1875
   lightness: 0.09656268125399947
   saturation: 0.4768411349505186
   rhythmicContrast: 0.2723091479856521
